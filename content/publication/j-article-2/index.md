@@ -1,8 +1,6 @@
 ---
-title: "Production of concrete pipes by carbonation curing in an inflatable enclosure"
-authors:
-- admin
-- Mahoutian.M, Shao.Y
+title: "Converting industrial waste into a value-added cement material through ambient pressure carbonation"
+authors: [Xiangping Xian, Mehrdad Mahoutian, Shipeng Zhang, Yixin Shao, Duo Zhang, Jingyi Liu]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
@@ -14,13 +12,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Constr. Build. Mater. 363, 129861"
-
-# tags:
-# - Source Themes
-# featured: false
+publication: "J. Environ. Manage. 325(B), 116603"
 
 links:
 - name: Page Link
-  url: https://doi.org/10.1016/j.conbuildmat.2022.129861
+  url: https://doi.org/10.1016/j.jenvman.2022.116603
+
 ---
